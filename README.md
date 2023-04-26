@@ -41,7 +41,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> We developed this web with HTML-CSS language. 
+This web was developed with HTML-CSS language. 
 
 <details>
   <summary>Other versions</summary>
@@ -53,29 +53,19 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
   </ul>
 </details>
-
 <details>
-  <summary>Server</summary>
+<summary>Style</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
 </details>
 -->
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Contains a linder for HTML-CSS**
 - **Powered by GitHub**
@@ -86,8 +76,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://hellomicroverse.com)
 
@@ -153,8 +141,6 @@ To run the project, execute the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[More info about our jorney]**
 - [ ] **[New styles and efects]**
